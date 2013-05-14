@@ -26,4 +26,4 @@ app-common/classes/bll/OfficesBll.php
 app-common/classes/bll/OfficesBll.php
 ####代码
 
-[ 取默认图方法110](./office_default_img.md)
+[ get_default_img](./office_default_img.md)

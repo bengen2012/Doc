@@ -1,13 +1,11 @@
 ## 取默认图方法001
 
-_aka Rec 1.0_
-
-### 方法位置：
- app-common/classes/bll/OfficesBll.php
-
+_v 1.0_
 
 ### 方法如下：
-
+####存方位置
+	app-common/classes/bll/OfficesBll.php
+####代码
 ```php
 <?php
   
@@ -24,4 +22,8 @@ _aka Rec 1.0_
 ```
 
 ### 底层方法：
-  [get_default_img](./office_default_img.md)
+####存方位置
+	app-common/classes/bll/OfficesBll.php
+####代码
+
+	[get_default_img](./office_default_img.md)

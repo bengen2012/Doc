@@ -3,7 +3,7 @@
 _v 1.0_
 
 ### 业务层方法如下：
-####存方位置
+####位置
 app-common/classes/bll/OfficesBll.php
 ####代码
 ```php
@@ -22,7 +22,7 @@ app-common/classes/bll/OfficesBll.php
 ```
 
 ### 底层方法：
-####存方位置
+####位置
 app-common/classes/bll/OfficesBll.php
 ####代码
 

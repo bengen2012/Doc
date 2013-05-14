@@ -12,8 +12,9 @@ _aka Rec 1.0_
 <?php
   
   /**
-   * @return Model_Office_RentImg
-	 */
+   * @param int $office_id 房源ID
+   * @return Obj 
+   */
    
   public function get_default_img_rent($office_id) {
   	return $this->get_default_img($office_id, 'Rent');

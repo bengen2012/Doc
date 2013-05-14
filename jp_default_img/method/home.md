@@ -4,7 +4,7 @@ _v 1.0_
 
 ### 方法如下：
 ####存方位置
-	app-common/classes/bll/OfficesBll.php
+app-common/classes/bll/OfficesBll.php
 ####代码
 ```php
 <?php
@@ -23,7 +23,7 @@ _v 1.0_
 
 ### 底层方法：
 ####存方位置
-	app-common/classes/bll/OfficesBll.php
+app-common/classes/bll/OfficesBll.php
 ####代码
 
-	[get_default_img](./office_default_img.md)
+[ 取默认图方法110](./office_default_img.md)

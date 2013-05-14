@@ -2,7 +2,7 @@
 
 _v 1.0_
 
-### 方法如下：
+### 业务层方法如下：
 ####存方位置
 app-common/classes/bll/OfficesBll.php
 ####代码
